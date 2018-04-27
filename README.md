@@ -1,5 +1,5 @@
 # microwave_oven
-A control program for microwave oven with PIC16F18857.
+Control program for microwave oven with PIC16F18857 (X2C+ Development Board).
 
 Timer:
 The backing time can be set up with potentiometer in 20-second intervals. The maximum value of timer is 2 minute. To display the preset time use UART communication.
